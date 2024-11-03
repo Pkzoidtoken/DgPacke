@@ -1,17 +1,21 @@
 ### 🔥 Dargon Packer 🔥 
 
-### The DgPacker tool by Pkzoid is designed to package files and folders into a single archive, similar to popular tools like Zip or WinRAR. This tool enables users to conveniently "pack" multiple files or folders into one file, making organization and transfer simpler.
+### This tool by Pkzoid allows you to package files and folders into a single archive, similar to Zip or WinRAR. The tool allows users to "pack" multiple files or folders into one file, simplifying the process of transferring and organizing information.
 
-#### Here are some key points about DgPacker:
+### This is what DgPacker does:
 
-#### Compression Levels: 
-Currently, DgPacker does not support any compression features. Adding options for different compression rates could be a future improvement.
+### Levels of compression:
 
-#### Password Protection: 
-There is currently no password protection available. Adding this functionality could help secure sensitive files in the future.
+Currently, DgPacker does not support compression. Future improvements could include options for different compression rates.
 
-####  Cross-Platform Compatibility: 
+### Protection by password:
+
+Password protection is not available at the moment. Future security measures could be improved by adding this functionality.
+
+### Cross-Platform Compatibility:
+
 DgPacker’s packed files are designed to be used across different operating systems, including Linux and others, allowing flexibility for users on various platforms.
 
-#### Python Integration: 
+### Python Integration:
+
 Packed files can be accessed directly via Python. Users can list contents with a printdir function, extract specific files, or extract all files, making it easy to integrate into Python-based workflows
